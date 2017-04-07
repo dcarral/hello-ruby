@@ -1,11 +1,17 @@
 # hello-ruby
 
-Here you can find the material for the “Ruby 101” session @ SoCraTes Canaries 2017.
+Here you can find the material for the **“Ruby 101”** session @ SoCraTes Canaries 2017.
 
-## Goals
+## Goal
 
-- Introduce the Ruby programming language.
-- Set up a development environment: should come handy for tomorrow's session on **clean code** & **code quality**.
+(Briefly) introduce the Ruby programming language and set up a development environment which can be leveraged for tomorrow's session on **clean code** & **code quality**.
+
+## Agenda
+
+1. Intro
+2. Set up development environment
+3. Hands-on basic TDD example
+4. You say :-)
 
 ## Slidedeck and all that jazz?
 
