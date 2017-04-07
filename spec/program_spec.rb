@@ -1,3 +1,11 @@
+class Program
+
+  def perform
+    "Gran Canaria rocks! :)"
+  end
+
+end
+
 describe Program do
 
   # subject { Program.new }
